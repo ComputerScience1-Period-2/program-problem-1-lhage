@@ -1,7 +1,7 @@
 # Display_Text
 Program Problem 1
 
-
+cool	
 ## Program Problem 1: Display Text
 
 Create a New Project to display your Full Name, your period stored as a variable, and 
